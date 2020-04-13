@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: br.com.orlandoburli
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
